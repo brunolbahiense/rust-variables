@@ -1,6 +1,8 @@
 // u - significam valores inteiros não negativos (unsigned Integer) 
 // i - significa um valor inteiro (integer)
 // f - significa um valor em ponto flutuante
+//bool - significa booleano
+//char - vem de caractere, em resumo é uma string
 fn main(){
     let variavel:u8 = 129; 
     println!(" variavel i = {}", variavel);
